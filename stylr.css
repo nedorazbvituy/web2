@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Tektur&display=swap');
+
+table {
+/*   border-collapse: collapse; */
+  font-family: 'Tektur', cursive;
+	border: 1px solid #222;
+}
+caption{
+    font-size:32px ;
+}
+
+td{
+    border: ipx solid;
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    font-size: 20px;
+    color: blueviolet;
+}
+
+.st{
+    background-color: #222;
+    color: aquamarine;
+    font-size: 32px;
+}
+.nult{
+    background-color: darkseagreen  ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkorange;
+}
+
+.er{
+    background-color: aliceblue;
+}
+
+.we{
+    background-color: cadetblue;
+}
+
+.qw{
+    background-color: lime;
+}
+
+.rw{
+    background-color: springgreen;
+}
+
+.tw{
+    background-color: red;
+}
+
